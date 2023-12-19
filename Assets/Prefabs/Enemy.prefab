@@ -147,7 +147,7 @@ MonoBehaviour:
   badGuy: {fileID: 7554755709946492941}
   squareOfMovement: 50
   closeEnough: 2
-  health: 3
+  health: 2
 --- !u!114 &7787942328600212224
 MonoBehaviour:
   m_ObjectHideFlags: 0
